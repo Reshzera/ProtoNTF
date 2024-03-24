@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "ProtoNTF",
+  "sourceName": "contracts/ProtoNTF.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220846a66755bab7220d9aa20421a6212f9e98c343a4196db094cee0efb74612f8464736f6c63430008180033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220846a66755bab7220d9aa20421a6212f9e98c343a4196db094cee0efb74612f8464736f6c63430008180033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
